@@ -1,0 +1,9 @@
+A UDP port is a communication endpoint used by the User Datagram Protocol (UDP) to send and receive data between applications on a device.
+
+Just like TCP:
+
+IP address → identifies the device
+
+Port number → identifies the specific application on that device
+
+The difference is in how UDP handles data.
