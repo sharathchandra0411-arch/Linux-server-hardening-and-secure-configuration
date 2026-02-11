@@ -1,0 +1,47 @@
+A shell is a program that lets you interact with an operating system.
+The shell is the interface between you and the operating system kernel.
+
+Kernel → core of the OS
+
+Shell → lets you control the OS
+
+User → types commands
+
+💻 Types of Shells
+1️⃣ Command-Line Shell (CLI)
+
+You type text commands.
+
+Examples:
+
+Bash (Linux/macOS)
+
+Zsh
+
+Sh
+
+PowerShell (Windows)
+
+cmd.exe (Windows)
+
+Example:
+
+ls
+cd /home
+mkdir test
+
+2️⃣ Graphical Shell (GUI)
+
+Point and click (Windows desktop, macOS Finder, etc.)
+
+🔧 What a Shell Can Do
+
+Run programs
+
+Create/delete files
+
+Manage processes
+
+Control networking
+
+Automate tasks (scripts)
