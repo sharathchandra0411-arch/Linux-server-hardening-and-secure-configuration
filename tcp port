@@ -1,0 +1,43 @@
+A TCP port is a logical communication endpoint used by the Transmission Control Protocol (TCP) to identify specific services or applications running on a device.
+
+Think of it like this:
+
+IP address = the building’s street address
+
+Port number = the specific apartment inside the building
+
+When data is sent over the internet:
+
+The IP address identifies the device.
+
+The port number identifies the specific application or service on that device.
+
+🔢 Port Number Range
+
+TCP ports range from 0 to 65535 and are divided into:
+
+Well-known ports (0–1023) – Reserved for common services
+
+80 → HTTP
+
+443 → HTTPS
+
+22 → SSH
+
+21 → FTP
+
+25 → SMTP
+
+Registered ports (1024–49151) – Used by software applications
+
+Dynamic/Private ports (49152–65535) – Temporary ports used by clients
+
+🔄 How TCP Ports Work
+
+When you open a website:
+
+Your browser uses a temporary (ephemeral) port.
+
+It connects to the server’s IP on port 80 (HTTP) or 443 (HTTPS).
+
+TCP ensures reliable delivery (ordered, error-checked).
